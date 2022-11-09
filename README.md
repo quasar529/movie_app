@@ -1,3 +1,3 @@
 # Movie App Project
 
-First React JS Movie App
+https://quasar529.github.io/movie_app/
